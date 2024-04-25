@@ -19,7 +19,7 @@ By storing products as vectors in a PostgreSQL database, we unlock a myriad of p
 
 **********
 
-1. https://github.com/rorong/langchain_vector_search-db.git
+1. git clone https://github.com/rorong/langchain_vector_search-db.git
 2. bundle
 3. rails db:migrate
 4. rails db:seed
