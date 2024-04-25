@@ -69,7 +69,8 @@ group :test do
 end
 
 gem "langchainrb"
-gem "ruby-openai"
 gem "langchainrb_rails"
 gem "dotenv-rails"
-
+gem "faker"
+gem "neighbor"
+gem "ruby-openai"
