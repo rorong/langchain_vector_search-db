@@ -67,3 +67,9 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "langchainrb"
+gem "ruby-openai"
+gem "langchainrb_rails"
+gem "dotenv-rails"
+
